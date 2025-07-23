@@ -1,0 +1,66 @@
+CTC is a cutting-edge proprietary trading firm with a long-term vision and a clear focus on helping the world price and manage risk. Our fun and trusting culture inspires us to solve the industry’s most challenging problems and take calculated risks in a collaborative environment.
+
+We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to which we belong. Started in 1995 by a team of forward-thinking Traders, we are proud to call ourselves an industry leader that keeps making markets and each other better.
+
+Are you excited by the opportunity to be part of a dynamic trading environment that values teamwork and collaboration? Do you thrive in an innovative atmosphere? If so, we encourage you to consider Chicago Trading Company (CTC)!  
+
+Our History  
+
+CTC is a cutting-edge proprietary trading firm with a long-term vision and a clear focus on helping the world price and manage risk. Our fun and trusting culture inspires us to solve the industry’s most challenging problems and take calculated risks in a collaborative environment. 
+
+We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to which we belong. Started in 1995 by a team of forward-thinking Traders, we are proud to call ourselves an industry leader that keeps making markets and each other better. 
+
+The Role  
+
+As a Software Engineering (SE) Intern, you will be challenged to learn and adapt in a dynamic, forward-thinking, and fast-paced environment and will experience life as an engineer on one of our technology teams. Your impact is immediate and meaningful. You will work alongside software engineers designing, solving and testing complex coding problems that will deliver solutions to our trading tools and risk applications. These distributed real-time systems will require you to have a proven understanding of computer science concepts, software development skills and methodology, and effective communication and teamwork abilities. You will get exposure to the design and implementation of these systems, which will allow you to build upon your technical skills. As part of the Summer Associate cohort, you will learn and socialize alongside other SE Interns and Quant Trading (QT) Interns. 
+
+There are a variety of languages you could get practical experience working with including (but not limited to): Java, C++, and Python. Software development cycles at CTC are short and releases of proprietary software are frequent. This is a fast-paced and dynamic team environment where our engineers quickly see the results of their effort, and the impact that work has on our businesses.  
+
+What to Expect  
+
+The internship program gives you insight into our culture and an inward look into what our business is all about. You will participate in three classroom learning experiences including: a week-long Basics of Options class, a multi-week class on the fundamentals of market making (Mock Trading), and a multi-week class that introduces elements of our quant framework (Quant Curriculum). You will also attend planned social activities and talks from various business leaders to propel your professional growth, and build your network with CTC employees and fellow interns. You will: 
+
+Deliver a technical project in an impactful role mirroring that of a full-time Software Engineering Associate  
+Get hands-on experience with our trading technology 
+Have weekly one-on-one meetings with your manager to ensure you are progressing and learning throughout the program  
+Receive mentorship from members of our technology team  
+Experience a culture with a strong emphasis on teamwork and collaboration built through various educational and social activities  
+What it takes for you to be successful: 
+
+A foundation in data structures, object-oriented programming and algorithms, and the ability to apply them to real-world problems  
+An interest in learning about technology, trading, pricing and risk management. No prior knowledge or experience in finance is necessary, but a deep curiosity and a hunger to learn is essential  
+You are a highly motivated, humble, and collaborative team member  
+Ability to thrive in a team-based environment filled with driven people who want to compete and win together 
+Ability to effectively communicate ideas both written and verbally that showcase your analytical skills  
+You seek constructive feedback to grow your capabilities  
+Key Requirements:  
+
+You are pursuing a bachelor’s or Master's degree in computer science, Computer Engineering or a similar technical field with Java, C++, or Python experience  
+You will graduate between December 2026-June 2027  
+You have a demonstrated record of success (academics, awards, etc.)  
+You are willing to relocate to Chicago, IL or New York, NY for the summer  
+Why should you consider interning at CTC?  
+
+Be part of a fast-growing, industry-leading global technology company  
+Opportunity to work with and learn from forward-thinking leaders in our industry  
+Excellent support system to ensure your learning and development  
+Fun, collaborative, team environment  
+Competitive pay, free housing with your fellow interns in downtown Chicago (or a housing stipend if located in New York), and free breakfast, lunch, and snacks! 
+ 
+
+Please note: You are allowed to submit one application per position (i.e. SE Intern and QT Intern) during the recruiting cycle. We recommend focusing on applying for the role that aligns most closely with your skills and interests. While you can apply for more than one role, please keep in mind that each application will be assessed according to the specific requirements set for that role. The Chicago and New York job posts are the same job. Please do not apply to both. Pick one and select your location preferences in the application. 
+
+Most teams at CTC, with the exception of Trading, follow a hybrid workplace model, subject to change based on business need.
+
+Our Benefits 
+
+We strongly believe in the well-being of our employees and their families so we offer outstanding benefits to support you both professionally and personally. These benefits include generous medical coverage, paid parental leave, free breakfast and lunch (plus healthy snacks, of course), wellness reimbursement, quarterly recharge days, and a variety of other benefits focused on providing the best employee experience. 
+
+(Disclaimer: interns and contractors are not eligible for benefits at CTC) 
+
+Our Commitment to Diversity, Equity and Inclusion
+
+At CTC, we aim to cultivate a workplace that celebrates diversity and each person feels included, engaged and empowered. Where each of us feels we belong. We are committed to having a diverse workforce and are proud to be an equal opportunity employer. CTC does not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. 
+
+If you have a disability and believe you need a reasonable accommodation in order to search for a job opening or to apply for a position, please contact us at info@chicagotrading.com. Note that emails sent to this email account for non-disability related issues, such as following up on an application, will not receive a response.
+
