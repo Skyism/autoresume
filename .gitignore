@@ -3,3 +3,5 @@
 resume.tex
 _pycache_
 __pycache__
+.venv
+venv/
